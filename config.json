@@ -1,0 +1,9 @@
+[
+  {
+    "repo": "https://repo.getsileo.app/",
+    "packages": [
+      "org.coolstar.sileo",
+      "org.coolstar.sileonightly"
+    ]
+  }
+]
